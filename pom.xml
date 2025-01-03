@@ -76,7 +76,7 @@
 
                 <configuration>
 
-                    <mainClass>com.example.PetClinicApplication</mainClass>
+                    <mainClass>com.example.petclinic.PetClinicApplication</mainClass>
 
                 </configuration>
 
